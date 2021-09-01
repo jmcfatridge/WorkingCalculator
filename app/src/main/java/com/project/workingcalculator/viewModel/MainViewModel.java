@@ -109,7 +109,4 @@ public class MainViewModel extends ViewModel {
             return total;
         }
     }
-
-    //2  3  4  5
-    // +   x  -
 }
