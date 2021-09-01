@@ -15,6 +15,8 @@ import com.project.workingcalculator.viewModel.MainViewModel;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    // Changes occurring in the view
+
     private MainViewModel viewModel;
 
     private ActivityMainBinding binding;

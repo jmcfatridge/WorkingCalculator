@@ -11,6 +11,8 @@ import java.util.List;
 
 public class MainViewModel extends ViewModel {
 
+    //Calculator logic stuff
+
     private final MutableLiveData<String> displayString = new MutableLiveData<>();
 
     public LiveData<String> getDisplayedString() {
